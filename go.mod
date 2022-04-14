@@ -1,6 +1,6 @@
-module github.com/kubernetes-csi/csi-lib-iscsi
+module github.com/Seagate/csi-lib-iscsi
 
-go 1.15
+go 1.16
 
 require (
 	github.com/prashantv/gostub v1.0.0
